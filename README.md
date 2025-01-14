@@ -12,7 +12,7 @@ I'm always trying to learn new things and like to be aware of new technologies. 
 
 - 🔭 I’m currently working on [Crazy Imagine Software](https://crazyimagine.com)
 
-- 🌱 I’m currently learning **[**Astro**](https://astro.build)**
+- 🌱 I’m currently learning **[**Flutter**](https://flutter.dev)**
 
 - 💬 Ask me about **React, Next.js, NestJS. JavaScript ecosystem.**
 
